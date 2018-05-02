@@ -1,0 +1,63 @@
+/*
+    background
+*/
+body{
+    background-color: #213862;
+}
+
+
+/*
+	nav bar
+*/
+#navMenu{
+	background-color: #5A3583;
+}
+
+#navMenu a {
+    color: #f2f2f2;
+    vertical-align: center;
+    text-align: center;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+/* Change the color of links on hover */
+#navMenu a:hover {
+    background-color: #D3D3D3;
+    color: #5A3583;
+}
+
+/* Add a color to the active/current link */
+#navMenu a.active {
+    background-color: #202020;
+    color: #f2f2f2;
+}
+
+/*
+    banner
+*/
+
+.banner{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/*
+    general
+*/
+
+img {
+      width: 100%;
+}
+
+p {
+	color: #E9E9E9;
+}
+
+.eduText{
+    color: #E9E9E9;
+}
+
+.mHead{
+    color: #b972fb;
+}
